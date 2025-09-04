@@ -11,7 +11,7 @@ This project builds two $10,000 investment portfolios using four stocks: AAPL, A
 - Identify optimal portfolio and visualize results
 
 ## Data
-I used data from 4 CSV files, one for each stock, containing all historical data needed for the analysis
+I used data from 4 CSV files, one for each stock, containing all historical data needed for the analysis.
 
 
 # Portfolio Optimization Project
