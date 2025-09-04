@@ -17,13 +17,13 @@ I used data from 4 CSV files, one for each stock, containing all historical data
 # Portfolio Optimization Project
   
 📥 Download the file to explore it in Jupyter notebook:  
-[Portfolio_Optimization.ipynb](Portfolio_Optimization.ipynb) 
+[Portfolio_Optimization.ipynb](https://github.com/JaviGARES/Python-Case-Study---Portfolio-Optimization/blob/main/Case%20Study%20-%20Portfolio%20Optimization.ipynb) 
 
 
 
 ## Project Preview
 
-[View Portfolio Optimization Notebook](notebooks/Portfolio Optimization.ipynb)
+[View Portfolio Optimization Notebook](https://github.com/JaviGARES/Python-Case-Study---Portfolio-Optimization/blob/main/Case%20Study%20-%20Portfolio%20Optimization.ipynb)
 
 
 Here are some snapshots from the project:
