@@ -1,4 +1,4 @@
-
+## Project Description:
 In this project I build two $10,000 investment portfolios using four stocks: AAPL, AMD, MSFT and ORCL.  
 - The first portfolio has equal weighting between the stocks.  
 - The second portfolio is optimized for best return adjusted for risk (max Sharpe ratio).
