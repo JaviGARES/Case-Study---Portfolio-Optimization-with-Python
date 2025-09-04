@@ -1,11 +1,11 @@
-# Case-Study---Portfolio-Optimization-with-Python
+# Python Case-Study---Portfolio-Optimization
 
-This project builds and compares two $10,000 portfolios for four stocks:
-1. Equal-weighted portfolio
-2. Optimized portfolio (max Sharpe ratio)
+This project builds two $10,000 investment portfolios using four stocks: AAPL, AMD, MSFT and ORCL.  
+- The first portfolio has equal weighting between the stocks.  
+- The second portfolio is optimized for best return adjusted for risk (max Sharpe ratio).
 
 ## Features
-- Pull 2 years of stock data using Yahoo Finance
+- Pull 2 years of stock data 
 - Calculate daily returns and portfolio performance
 - Simulate 10,000 portfolios with random weights
 - Identify optimal portfolio and visualize results
@@ -14,6 +14,13 @@ This project builds and compares two $10,000 portfolios for four stocks:
   
 📥 Download the file to explore it in Jupyter notebook:  
 [Portfolio_Optimization.ipynb](Portfolio_Optimization.ipynb) 
+
+The data used in this project is available in the `data/` folder. You can download each file:
+
+- [AAPL.csv](data/AAPL.csv)  
+- [AMD.csv](data/AMD.csv)  
+- [MSFT.csv](data/MSFT.csv)  
+- [ORCL.csv](data/ORCL.csv)
 
 ## Project Preview
 
