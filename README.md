@@ -23,7 +23,7 @@ I used data from 4 CSV files, one for each stock, containing all historical data
 
 ## Project Preview
 
-[View Portfolio Optimization Notebook](notebooks/Portfolio_Optimization.ipynb)
+[View Portfolio Optimization Notebook](notebooks/Portfolio Optimization.ipynb)
 
 
 Here are some snapshots from the project:
