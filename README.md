@@ -10,19 +10,21 @@ This project builds two $10,000 investment portfolios using four stocks: AAPL, A
 - Simulate 10,000 portfolios with random weights
 - Identify optimal portfolio and visualize results
 
+## Data
+I used data from 4 CSV files, one for each stock, containing all historical data needed for the analysis
+
+
 # Portfolio Optimization Project
   
 📥 Download the file to explore it in Jupyter notebook:  
 [Portfolio_Optimization.ipynb](Portfolio_Optimization.ipynb) 
 
-The data used in this project is available in the `data/` folder. You can download each file:
 
-- [AAPL.csv](data/AAPL.csv)  
-- [AMD.csv](data/AMD.csv)  
-- [MSFT.csv](data/MSFT.csv)  
-- [ORCL.csv](data/ORCL.csv)
 
 ## Project Preview
+
+[View Portfolio Optimization Notebook](notebooks/Portfolio_Optimization.ipynb)
+
 
 Here are some snapshots from the project:
 
